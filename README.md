@@ -1,2 +1,2 @@
 # Medium_Clone
-Medium Clone
+I made Medium Clone. Using HTML/CSS/BootStrap
